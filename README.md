@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Design Patterns in Dart
+
+Implementation of Gang of Four Design Patterns in Dart language.
